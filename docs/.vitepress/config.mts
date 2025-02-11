@@ -10,6 +10,10 @@ export default defineConfig({
     },
     cleanUrls: true,
 
+    head: [
+        ['link', { rel: 'icon', href: '/favicon.ico' }],
+    ],
+
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         search: {
@@ -56,6 +60,11 @@ export default defineConfig({
                 ]
             },
         ],
+
+        //页脚
+        footer: {
+            copyright: `© 2025 flipwind. All Rights Reserved.`,
+        },
 
         // socialLinks: [
         //   { icon: 'github', link: 'https://github.com/vuejs/vitepress' }

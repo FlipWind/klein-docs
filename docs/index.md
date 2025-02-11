@@ -6,7 +6,7 @@ hero:
   name: "Klein"
   text: "A bot for QQ"
   image: 
-    src: /klein.jpg
+    src: /kleinhead.png
   tagline: "你来啦？有什么不懂的，我都写在这里啦！"
   actions:
     - theme: brand
