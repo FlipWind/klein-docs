@@ -14,7 +14,7 @@ hero:
       link: /about
     - theme: alt
       text: 获取新年红包
-      link: https://www.bilibili.com/video/BV1GJ411x7h7/
+      link: /redpack.html
 
 features:
   - title: 🎇 功能多
