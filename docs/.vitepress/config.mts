@@ -50,6 +50,7 @@ export default defineConfig({
                     { text: '心跳 Heartbeat', link: '/plugins/heartbeat' },
                     { text: '我喜欢你 Love', link: '/plugins/loveu' },
                     { text: '表情包转换 Meme', link: '/plugins/memetransformer' },
+                    { text: '拼好表情 Emoji Kitchen', link: '/plugins/emojikitchen' },
                 ]
             },
 
